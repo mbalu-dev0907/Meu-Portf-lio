@@ -13,7 +13,7 @@ Crio sites simples, rápidos e funcionais para pequenos negócios.
 - Barbearia Elite (site institucional)
 
 ## 🌍 Acesso ao site
-https://mbalu-dev0907.github.io/meu-portfolio
+https://mbalu-dev0907.github.io/Meu-Portf-lio
 
 ## 📞 Contato
 - WhatsApp: +244 949 876 388
