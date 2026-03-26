@@ -63,9 +63,10 @@ footer {
 
 .foto {
   width: 140px;
-  height: 140px;
+  height: 180px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 50% / 60%; /* horizontal / vertical */
   border: 3px solid #f4c542;
   margin-bottom: 15px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
 }
