@@ -29,8 +29,43 @@ footer {
   padding: 15px;
   background: #020617;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0f172a;
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 40px;
+  background: #020617;
+}
+.h1-hover{
+  color:chocolate;
+}
+section {
+  padding: 30px;
+}
+
+.projeto {
+  background: #1e293b;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #020617;
+}
+
 .foto {
-  width: 120px;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 10px;
+  border: 3px solid #f4c542;
+  margin-bottom: 15px;
 }
